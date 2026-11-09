@@ -1,20 +1,22 @@
 # 이민섭 · Minseop Lee
 
-**이미지와 데이터를 읽고, 그 결과를 사용할 수 있는 도구로 만듭니다.**
-
-Computer Vision과 머신러닝을 공부하며, 이미지 분석부터 모델 검증과 웹 서비스 구현까지 프로젝트를 진행하고 있습니다.
+국민대학교 소프트웨어학부 학생입니다. 이미지 처리와 머신러닝을 공부하고, 웹 서비스를 개발합니다.
 
 [Projects](#selected-projects) · [Experience](#experience) · [Contact](mailto:minseop0920@kookmin.ac.kr)
 
 ## Selected projects
 
+**[일로 · illo](https://illo-prototype.vercel.app/)** · AI / Career Tools<br>
+채용 공고와 이력서를 비교해 보완할 역량을 짚고, 관련 교육과정과 청년정책을 찾아주는 서비스. 4인 팀에서 교육과정·청년정책 탐색 화면을 만들고 교육과정 추천 기준을 설계했습니다.<br>
+`LLM` · **2026 청년취업사관학교 해커톤 대상 (서울특별시장상)**
+
 **[XRD Studio](https://github.com/seopseopi/xrd-studio)** · Computer Vision / Scientific Computing<br>
-논문 속 XRD 그래프 이미지에서 회절 패턴을 수치 데이터로 복원하고 분석하는 도구. 이미지 처리 파이프라인, 정량 평가, 웹 인터페이스를 함께 구성했습니다.<br>
+논문 속 XRD 그래프 이미지에서 회절 패턴을 수치 데이터로 복원하고 분석하는 도구. 8인 팀에서 개발을 전담해 이미지 처리, 복원 결과 평가, 웹 화면을 구현했습니다.<br>
 `Python` `OpenCV` `React` · 2026 국민 공학 FESTA 은상
 
 **[ZZIK · 찍](https://github.com/seopseopi/zzik)** · Image Analysis / Full Stack<br>
-여행 사진을 함께 모으고, 인물별로 찾고, 보정본을 함께 고르는 공유 앨범. [브라우저 체험](https://seopseopi.github.io/zzik/)은 샘플 데이터를 사용합니다.<br>
-`React` `TypeScript` `FastAPI` `PostgreSQL`
+여행 사진을 함께 모으고, 인물별로 찾고, 보정본을 함께 고르는 공유 앨범. 5인 팀에서 기획을 주도하고 공유 앨범 기능과 [웹 데모](https://seopseopi.github.io/zzik/)(샘플 데이터)를 구현했습니다.<br>
+`React` `TypeScript` `FastAPI` `PostgreSQL` · 2026 키로톤 최우수상
 
 **[크노](https://github.com/seopseopi/kookmin-ai-builder-2026)** · AI / Information Extraction<br>
 여러 곳에 흩어진 대학 공지를 수집하고, 이미지 공지의 내용을 읽어 요약과 마감 정보를 정리하는 서비스.<br>
@@ -25,7 +27,7 @@ Computer Vision과 머신러닝을 공부하며, 이미지 분석부터 모델 �
 `Python` `CatBoost` `TabM`
 
 **[집장부](https://github.com/seopseopi/jipjangbu)** · Web Application<br>
-고객·매물·업무 이력과 일정을 한곳에서 관리하는 부동산 업무 장부.<br>
+공인중개사의 업무 방식에 맞춰 고객·매물·업무 이력을 관리하는 웹 서비스. 혼자 기획·개발해 배포했으며, 사용 중인 중개사무소에서 정기적으로 의견을 듣고 개선하고 있습니다.<br>
 `React` `TypeScript` `Cloudflare Workers`
 
 ## Experience
