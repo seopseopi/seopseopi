@@ -6,7 +6,7 @@
 
 ## Selected projects
 
-**[일로 · illo](https://illo-prototype.vercel.app/)** · AI / Career Tools<br>
+**[일로 · illo](https://github.com/seopseopi/illo)** · AI / Career Tools · [시연](https://illo-prototype.vercel.app/)<br>
 채용 공고와 이력서를 비교해 보완할 역량을 짚어주는 취업 준비 서비스. 4인 팀에서 교육과정·청년정책 탐색 화면을 만들고 과정 추천 기준을 설계했습니다.<br>
 `LLM` · **🏆 2026 청년취업사관학교 해커톤 대상 (서울특별시장상)**
 
@@ -21,6 +21,10 @@
 **[ZZIK · 찍](https://github.com/seopseopi/zzik)** · Image Analysis / Full Stack<br>
 여행 사진을 함께 모으고, 인물별로 찾고, 보정본을 함께 고르는 공유 앨범. 5인 팀에서 기획을 주도하고 공유 앨범 기능과 [샘플 사진 데모](https://seopseopi.github.io/zzik/)를 구현했습니다.<br>
 `React` `TypeScript` `FastAPI` `PostgreSQL` · 🏆 2026 키로톤 최우수상
+
+**[Automatic Stage Mix](https://github.com/seopseopi/Automatic-Stage-Mix)** · 2023 하계 UROP<br>
+얼굴 정보를 활용해 두 영상 클립을 자동으로 교차편집하는 Premiere Pro 확장 기능을 팀으로 개발했습니다. 저는 얼굴 랜드마크와 자세 추정 실험 코드를 작성했습니다.<br>
+`Python` `OpenCV`
 
 **[크노](https://github.com/seopseopi/kookmin-ai-builder-2026)** · AI / Information Extraction<br>
 대학 공지를 모아 요약과 마감 정보를 보여주는 서비스. 교내 해커톤에서 팀원들과 함께 개발했습니다.
