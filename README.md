@@ -27,13 +27,12 @@ Premiere Pro 자동 교차편집 확장 기능. 팀에서 얼굴 랜드마크와
 **[크노](https://github.com/seopseopi/kookmin-ai-builder-2026)**<br>
 대학 공지의 요약과 마감 정보를 보여주는 서비스. 교내 해커톤에서 팀으로 개발했습니다.
 
-**[LG Aimers 9th · 투구 제구 예측](https://github.com/seopseopi/lg-aimers-9th-pitch-control)**<br>
+**[LG Aimers 9기 · 투구 제구 예측](https://github.com/seopseopi/lg-aimers-9th-pitch-control)**<br>
 투구 제구 성공 확률을 예측하는 모델을 만들고 다음 시즌 데이터로 검증했습니다.<br>
 `Python` `CatBoost` `TabM`
 
-## Experience
-
-- **2025** · [LG Aimers 8기 온라인 해커톤](https://github.com/seopseopi/lg-aimers-8th-llm-quantization) — LLM 양자화·경량화 실험
+**[LG Aimers 8기 · LLM 경량화](https://github.com/seopseopi/lg-aimers-8th-llm-quantization)** · 2025<br>
+온라인 해커톤에서 LLM 양자화·경량화를 실험했습니다.
 
 ---
 
