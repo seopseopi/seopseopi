@@ -7,7 +7,7 @@
 ## Selected projects
 
 **[일로 · illo](https://github.com/seopseopi/illo)** · AI / Career Tools · [시연](https://illo-prototype.vercel.app/)<br>
-채용 공고와 이력서를 비교해 보완할 역량을 짚어주는 취업 준비 서비스. 4인 팀에서 교육과정·청년정책 탐색 화면을 만들고 과정 추천 기준을 설계했습니다.<br>
+채용 공고와 이력서를 비교해 보완할 역량을 짚어주는 취업 준비 서비스. 4인 팀에서 기획과 개발을 맡았습니다. 사용자 상황에 맞춰 SeSAC 교육과정 210개와 서울시 청년정책 515건에서 관련 항목을 찾아주는 매칭 로직을 구현했습니다.<br>
 `LLM` · **🏆 2026 청년취업사관학교 해커톤 대상 (서울특별시장상)**
 
 **[집장부](https://github.com/seopseopi/jipjangbu)** · Web Application<br>
