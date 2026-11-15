@@ -4,6 +4,10 @@
 
 ## Selected projects
 
+**이거, 어디에 버려요?** · 2026.11 · [시연](https://kmu-disposal-demo.onrender.com/?bin=a)<br>
+국민대 유학생을 위한 AI 분리배출 안내. 수거함 QR을 스캔하고 물건을 촬영하면 해당 장소의 배출 순서와 수거함 표기를 4개 언어로 안내하는 웹 프로토타입을 팀으로 개발했습니다.<br>
+`Gemini API` `Node.js` · **🏆 2026 국민대학교 커리어위크 AI 아이디어톤 대상**
+
 **[일로 · illo](https://github.com/seopseopi/illo)** · 2026.11 · [시연](https://illo-prototype.vercel.app/)<br>
 AI 취업 준비 서비스 기획·개발. SeSAC 교육과정 210개와 서울시 청년정책 515건을 사용자 상황에 맞춰 추천하는 로직을 구현했습니다.<br>
 `LLM` · **🏆 2026 청년취업사관학교 해커톤 대상 (서울특별시장상)**
