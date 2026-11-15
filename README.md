@@ -4,7 +4,7 @@
 
 ## Selected projects
 
-**이거, 어디에 버려요?** · 2026.11 · [시연](https://kmu-disposal-demo.onrender.com/?bin=a)<br>
+**[이거, 어디에 버려요?](https://kmu-disposal-demo.onrender.com/?bin=a)** · 2026.11<br>
 국민대 유학생을 위한 AI 분리배출 안내. 수거함 QR을 스캔하고 물건을 촬영하면 해당 장소의 배출 순서와 수거함 표기를 4개 언어로 안내하는 웹 프로토타입을 팀으로 개발했습니다.<br>
 `Gemini API` `Node.js` · **🏆 2026 국민대학교 커리어위크 AI 아이디어톤 대상**
 
