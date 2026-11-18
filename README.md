@@ -11,8 +11,7 @@
 
 ## Experience
 
-**학부생 UROP** · 2023 하계<br>
-[Automatic Stage Mix](https://github.com/seopseopi/Automatic-Stage-Mix)
+**학부생 UROP** · 2023 하계 · [Automatic Stage Mix](https://github.com/seopseopi/Automatic-Stage-Mix)
 
 **[LG Aimers 9기 · 투구 제구 예측](https://github.com/seopseopi/lg-aimers-9th-pitch-control)**<br>
 투구 제구 성공 확률을 예측하는 모델을 만들고 다음 시즌 데이터로 검증했습니다.<br>
