@@ -2,36 +2,17 @@
 
 국민대학교 소프트웨어학부
 
-## Selected projects
+## Awards
 
-**[이거, 어디에 버려요?](https://github.com/seopseopi/kmu-waste-sorting)** · 2026.11 · [시연](https://kmu-disposal-demo.onrender.com/?bin=a)<br>
-국민대 유학생을 위한 AI 분리배출 안내. 수거함 QR을 스캔하고 물건을 촬영하면 해당 장소의 배출 순서와 수거함 표기를 4개 언어로 안내하는 웹 프로토타입을 팀으로 개발했습니다.<br>
-`Gemini API` `Node.js` · **🏆 2026 국민대학교 커리어위크 AI 아이디어톤 대상**
-
-**[일로 · illo](https://github.com/seopseopi/illo)** · 2026.11 · [시연](https://illo-prototype.vercel.app/)<br>
-AI 취업 준비 서비스 기획·개발. SeSAC 교육과정 210개와 서울시 청년정책 515건을 사용자 상황에 맞춰 추천하는 로직을 구현했습니다.<br>
-`LLM` · **🏆 2026 청년취업사관학교 해커톤 대상 (서울특별시장상)**
-
-**[집장부](https://github.com/seopseopi/jipjangbu)** · 2026.08–현재<br>
-중개사무소의 고객·매물·업무 이력 관리 서비스. 혼자 개발·배포했고, 사용 중인 중개사무소의 의견을 받아 개선하고 있습니다.<br>
-`React` `TypeScript` `Cloudflare Workers`
-
-**[XRD Studio](https://github.com/seopseopi/xrd-studio)** · 2026.05<br>
-논문 속 XRD 그래프를 수치 데이터로 복원하는 도구. 개발을 전담해 이미지 처리, 복원 결과 평가, 웹 화면을 구현했습니다.<br>
-`Python` `OpenCV` `React` · 🏆 2026 국민 공학 FESTA 은상
-
-**[ZZIK · 찍](https://github.com/seopseopi/zzik)** · 2026.09<br>
-여행 사진을 인물별로 찾고 보정본을 함께 고르는 앱. 기획을 주도하고 공유 앨범과 [웹 데모](https://seopseopi.github.io/zzik/)를 구현했습니다.<br>
-`React` `TypeScript` `FastAPI` `PostgreSQL` · 🏆 2026 키로톤 최우수상
-
-**[Automatic Stage Mix](https://github.com/seopseopi/Automatic-Stage-Mix)** · 2023 하계 UROP<br>
-Premiere Pro 자동 교차편집 확장 기능. 팀에서 얼굴 랜드마크와 자세 추정 실험 코드를 작성했습니다.<br>
-`Python` `OpenCV`
-
-**[크노](https://github.com/seopseopi/kookmin-ai-builder-2026)**<br>
-대학 공지의 요약과 마감 정보를 보여주는 서비스. 교내 해커톤에서 팀으로 개발했습니다.
+- 🏆 **[이거, 어디에 버려요?](https://github.com/seopseopi/kmu-waste-sorting)** · 2026 국민대학교 커리어위크 AI 아이디어톤 **대상**
+- 🏆 **[일로 · illo](https://github.com/seopseopi/illo)** · 2026 청년취업사관학교 해커톤 **대상 (서울특별시장상)**
+- 🥈 **[XRD Studio](https://github.com/seopseopi/xrd-studio)** · 2026 국민 공학 FESTA **은상**
+- 🏆 **[ZZIK · 찍](https://github.com/seopseopi/zzik)** · 2026 키로톤 **최우수상**
 
 ## Experience
+
+**학부생 UROP** · 2023 하계<br>
+[Automatic Stage Mix](https://github.com/seopseopi/Automatic-Stage-Mix)
 
 **[LG Aimers 9기 · 투구 제구 예측](https://github.com/seopseopi/lg-aimers-9th-pitch-control)**<br>
 투구 제구 성공 확률을 예측하는 모델을 만들고 다음 시즌 데이터로 검증했습니다.<br>
@@ -39,6 +20,9 @@ Premiere Pro 자동 교차편집 확장 기능. 팀에서 얼굴 랜드마크와
 
 **[LG Aimers 8기 · LLM 경량화](https://github.com/seopseopi/lg-aimers-8th-llm-quantization)** · 2025<br>
 온라인 해커톤에서 LLM 양자화·경량화를 실험했습니다.
+
+**[집장부](https://github.com/seopseopi/jipjangbu) · 서비스 개발·운영** · 2026.08–현재<br>
+중개사무소의 고객·매물·업무 이력 관리 서비스를 개발·운영하고 있습니다.
 
 ---
 
